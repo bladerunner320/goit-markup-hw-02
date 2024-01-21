@@ -38,9 +38,9 @@ ul, ol {list-style: none;}
 .address-link:hover,
 .address-link:focus{color: #404BBF;}
 
-.section-1-background {background-color: #2E2F42;}
+.section-one-background {background-color: #2E2F42;}
 
-.header-1 {
+.header-one {
     color: #FFF;
     text-align: center;
     font-size: 56px;
@@ -48,7 +48,7 @@ ul, ol {list-style: none;}
     line-height: 1.07;
     letter-spacing: 0.02em;}
 
-.section-1-button {
+.section-one-button {
     color: #FFF;
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -58,8 +58,8 @@ ul, ol {list-style: none;}
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-.section-1-button:hover,
-.section-1-button:focus {
+.section-one-button:hover,
+.section-one-button:focus {
 background-color: #404BBF;
 }
 
@@ -79,7 +79,7 @@ background-color: #404BBF;
     letter-spacing: 0.02em;
 }
 
-.section-3-background {
+.section-three-background {
     background-color: #F4F4FD;
 }
 
